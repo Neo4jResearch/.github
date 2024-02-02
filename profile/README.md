@@ -1,12 +1,5 @@
 # Welcome to Neo4j Research
 
-<!--
+Here you'll find code for research prototypes by members of the systems research team at Neo4j. You might find the code useful or interesting, and we're always happy to hear your insights.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The code shouldn't be treated as production-ready. Nor is it freely licensed unless otherwise indicated. Neo4j accepts no responsibility for any eventuality arising from your use of any code in this repository.
